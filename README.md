@@ -1,1 +1,0 @@
-# ViktorSmiryagin.github.io
