@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37677dcc-62ea-4d94-b130-20a718facd51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/image/Qase.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/bash.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/graphsql.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/postman.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/principles_of_software_testing.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/sql.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/test_desing.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/type_tesiting.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/websocket.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/SQL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/devtools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/jira-original.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/сharly.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CV_rus_Viktor.html" beforeDir="false" afterPath="$PROJECT_DIR$/CV_rus_Viktor.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +76,7 @@
       <recent name="$PROJECT_DIR$/image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -98,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756462831466</updated>
-      <workItem from="1756462833131" duration="3097000" />
+      <workItem from="1756462833131" duration="12246000" />
     </task>
     <servers />
   </component>
